@@ -1,4 +1,4 @@
-
+<p align="center"><a href="https://laravel.com" target="_blank"><img src="https://github.com/karimaboelmagd/HireHub-online-platform-for-job-seekers-and-employers-LARAVEL-11/blob/main/Pic1.PNG" width="400" alt="Laravel Logo"></a></p>
 
 ## Screenshots
 
