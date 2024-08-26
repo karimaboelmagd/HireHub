@@ -1,5 +1,5 @@
 <x-layout>
-    <x-page-heading>Register</x-page-heading>
+    <x-page-heading>Register Form</x-page-heading>
 
     <x-forms.form method="POST" action="/register" enctype="multipart/form-data">
         <x-forms.input label="Name" name="name" />
