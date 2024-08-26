@@ -1,4 +1,4 @@
-<p align="right"><img src="https://github.com/karimaboelmagd/HireHub-online-platform-for-job-seekers-and-employers-LARAVEL-11/blob/main/Pic1.PNG" width="400" alt="Project Screenshots"></a></p>
+<p align="center"><img src="https://github.com/karimaboelmagd/HireHub-online-platform-for-job-seekers-and-employers-LARAVEL-11/blob/main/Pic1.PNG" width="600" alt="Project Screenshots"></a></p>
 
 <p align="center"><img src="https://github.com/karimaboelmagd/HireHub-online-platform-for-job-seekers-and-employers-LARAVEL-11/blob/main/Pic2.PNG" width="400" alt="Project Screenshots"></a></p>
 
